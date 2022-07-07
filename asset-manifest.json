@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/routing/static/css/main.74e4d70c.css",
-    "main.js": "/routing/static/js/main.a7fd699c.js",
-    "static/js/787.bb2660d1.chunk.js": "/routing/static/js/787.bb2660d1.chunk.js",
-    "static/media/Data_video.mp4": "/routing/static/media/Data_video.93e5dd0d0c34c6509f4c.mp4",
-    "static/media/car.svg": "/routing/static/media/car.6af02011eb1f4d277c8beaf5671f1171.svg",
-    "static/media/office.svg": "/routing/static/media/office.222d178f2f866c2f77e980e41895365f.svg",
-    "static/media/wallet.svg": "/routing/static/media/wallet.d2c3ac5749449cf0eb1dfb758c661705.svg",
-    "static/media/transfer.svg": "/routing/static/media/transfer.3c2ebf1d8253f37989e7d70be58dfc69.svg",
-    "static/media/profit.svg": "/routing/static/media/profit.3a84ec20f862ef7089878fdd2da08eb8.svg",
-    "static/media/Sign_up.svg": "/routing/static/media/Sign_up.11d5bb16a21a6ce1bb4aa6015de420e3.svg",
-    "index.html": "/routing/index.html",
-    "main.74e4d70c.css.map": "/routing/static/css/main.74e4d70c.css.map",
-    "main.a7fd699c.js.map": "/routing/static/js/main.a7fd699c.js.map",
-    "787.bb2660d1.chunk.js.map": "/routing/static/js/787.bb2660d1.chunk.js.map"
+    "main.css": "/React_crypto_tracker/static/css/main.74e4d70c.css",
+    "main.js": "/React_crypto_tracker/static/js/main.2fde9ae5.js",
+    "static/js/787.bb2660d1.chunk.js": "/React_crypto_tracker/static/js/787.bb2660d1.chunk.js",
+    "static/media/Data_video.mp4": "/React_crypto_tracker/static/media/Data_video.93e5dd0d0c34c6509f4c.mp4",
+    "static/media/car.svg": "/React_crypto_tracker/static/media/car.6af02011eb1f4d277c8beaf5671f1171.svg",
+    "static/media/office.svg": "/React_crypto_tracker/static/media/office.222d178f2f866c2f77e980e41895365f.svg",
+    "static/media/wallet.svg": "/React_crypto_tracker/static/media/wallet.d2c3ac5749449cf0eb1dfb758c661705.svg",
+    "static/media/transfer.svg": "/React_crypto_tracker/static/media/transfer.3c2ebf1d8253f37989e7d70be58dfc69.svg",
+    "static/media/profit.svg": "/React_crypto_tracker/static/media/profit.3a84ec20f862ef7089878fdd2da08eb8.svg",
+    "static/media/Sign_up.svg": "/React_crypto_tracker/static/media/Sign_up.11d5bb16a21a6ce1bb4aa6015de420e3.svg",
+    "index.html": "/React_crypto_tracker/index.html",
+    "main.74e4d70c.css.map": "/React_crypto_tracker/static/css/main.74e4d70c.css.map",
+    "main.2fde9ae5.js.map": "/React_crypto_tracker/static/js/main.2fde9ae5.js.map",
+    "787.bb2660d1.chunk.js.map": "/React_crypto_tracker/static/js/787.bb2660d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74e4d70c.css",
-    "static/js/main.a7fd699c.js"
+    "static/js/main.2fde9ae5.js"
   ]
 }
